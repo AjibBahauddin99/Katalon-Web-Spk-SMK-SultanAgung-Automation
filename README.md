@@ -5,6 +5,13 @@ Saya membuat proyek pengujian QA manual testing website. proses ini melibatkan b
 Wesite yang digunakan merupakan punya teman saya sendiri yang bernama Gian Athallah.
 Website ini digunakan sebagai tugas akhir.
 
+## Tujuan Pengujian
+- mendeteksi dan memperbaiki kesalahan (bug).
+- memastikan fungsionalitas sesuai dengan yang diharapkan.
+- memberikan pengalaman pengguna yang baik.
+- meningkatkan kualitas website.
+- mencegah masalah dimasa depan.
+
 ## Tools Digunakan
 - Microsoft Excel (Penulisan test case dan bug test)
 - Xampp (memanggil website localhost)

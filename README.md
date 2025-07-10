@@ -4,3 +4,9 @@ I have developed a QA testing project in excel and Katalon. this process involve
 ## Website
 Wesite yang digunakan merupakan punya teman saya sendiri yang bernama Gian Athallah.
 Website ini digunakan sebagai tugas akhir.
+
+## Tools Digunakan
+- Microsoft Excel (Penulisan test case dan bug test)
+- Xampp (memanggil website localhost)
+- Google chrome (menggunakan website)
+- Git & Github (Versi kontrol dan dokumentasi)

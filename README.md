@@ -1,5 +1,5 @@
 # Test Script Website Spk Smk Sultan Agung
-Saya membuat proyek pengujian QA manual testing website. proses ini melibatkan beberapa tahap termasuk test case, bug test dan automation website menggunakan aplikasi Katalon. untuk pengujian katalon bisa lihat di repository github <a href="https://github.com/AjibBahauddin99/Katalon-Web-Spk-SultanAgung-Automation.git">Katalon Automation Website</a>
+Saya membuat proyek pengujian QA manual testing website. proses ini melibatkan beberapa tahap termasuk test case dan bug test. Automation website menggunakan aplikasi Katalon. untuk pengujian QA Automation bisa lihat di repository github <a href="https://github.com/AjibBahauddin99/Katalon-Web-Spk-SultanAgung-Automation.git">Katalon Automation Website</a>
 
 ## Website
 Wesite yang digunakan merupakan punya teman saya sendiri yang bernama Gian Athallah.
